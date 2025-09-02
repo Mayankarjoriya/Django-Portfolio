@@ -18,5 +18,23 @@ This project was developed with the assistance of AI tools like **Gemini, ChatGP
 - Frontend: HTML5, CSS3, Bootstrap 5, JavaScript
 - AI Tools Used: Gemini, ChatGPT, Qwen-3 (for design + coding assistance)
 
+Clone the repository
+```bash
+//Step1
+git clone https://github.com/Mayankarjoriya/Django-Portfolio.git
+cd Mistral-Chat-Bot
+
+//Step 2
+python -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+
+//Step 3
+pip install -r requirements.txt
+
+Step 4
+python manage.py runserver
+
+
 💡 Purpose:
 To create a professional personal portfolio showcasing my projects, skills, and resume while experimenting with **AI-assisted development**.
